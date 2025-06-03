@@ -18,6 +18,7 @@ body:
       label: Content
       placeholder: Please describe the content you would like to discuss.
     validations:
+
       required: true
   - type: markdown
     attributes:
