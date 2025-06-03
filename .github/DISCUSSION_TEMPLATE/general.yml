@@ -21,4 +21,5 @@ body:
       required: true
   - type: markdown
     attributes:
+ placeholder: Please describe the content you would like to discuss.
       value: Please limit one request per issue.
