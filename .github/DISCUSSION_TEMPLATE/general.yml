@@ -2,7 +2,7 @@ title: "General Discussion"
 body:
   - type: checkboxes
     attributes:
-      label: Self Checks
+      label: Self Checks:
       description: "To make sure we get to you in time, please check the following :)"
       options:
         - label: I have searched for existing issues [search for existing issues](https://github.com/langgenius/dify/issues), including closed ones.
